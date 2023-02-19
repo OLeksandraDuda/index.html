@@ -1,0 +1,169 @@
+
+  
+  .text-container {
+    width: 270px;
+  }
+  
+  .asda {
+    width: 270px;
+    height: 16px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  
+    color: #212121;
+  }
+  
+  .text {
+    width: 270px;
+    height: 72px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+  
+    letter-spacing: 0.03em;
+  
+    color: #757575;
+  }
+  
+  /* about us */
+  
+  .about-us__heading {
+    /* width: 366px; */
+    height: 42px;
+  
+    margin-bottom: 50px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+  
+    color: #212121;
+  }
+  
+  .img-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .about-us__img:not(:last-child) {
+    margin-right: 30px;
+  }
+  
+  
+  
+  .navbar {
+    margin-left: 315px;
+    margin-right: 330px;
+    margin-top: 70px;
+  }
+  
+  .nav--list {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .galery {
+    margin-left: 147;
+    margin-right: 147;
+  }
+
+  .galery-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .galery--container {
+    width: 420px;
+  }
+  
+  .galery-img {
+    margin-bottom: 62px;
+  }
+  
+  .underimg {
+    display: block;
+  
+    margin-bottom: 32px;
+  
+    width: 64px;
+    height: 16px;
+  
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+  
+    color: #b4ad9e;
+  }
+  
+  .heading {
+    margin-bottom: 40px;
+  
+    width: 408px;
+    height: 40px;
+  
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+  
+    color: #626262;
+  }
+  
+  .paragraph {
+    width: 420px;
+    height: 76px;
+  
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+  
+    color: #626262;
+  }
+  
+  .galery--button {
+    display: block;
+  
+    margin: 0 auto;
+  
+    width: 165px;
+    height: 60px;
+  
+    border: 1px solid #626262;
+    text-align: center;
+  }
+  
+  .galery--button__text {
+    width: 68px;
+    height: 19px;
+  
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+  
+    color: #626262;
+  }
+  ul {
+    list-style: none;
+  }
+  
